@@ -25,7 +25,7 @@ This project demonstrates the implementation of a Library Management System usin
 - **Table Creation**: Created tables for branches, employees, members, books, issued status, and return status. Each table includes relevant columns and relationships.
 
 ```sql
-CREATE DATABASE library_db;
+CREATE DATABASE library_project_1;
 
 DROP TABLE IF EXISTS branch;
 CREATE TABLE branch
@@ -481,4 +481,5 @@ This project demonstrates the application of SQL skills in creating and managing
 ## Author - Kutullo Nkopodi.
 
 Thank you for your interest in this project!
+
 
