@@ -480,7 +480,6 @@ This project demonstrates the application of SQL skills in creating and managing
 
 ## Author - Kutullo Nkopodi.
 
-Thank you for your interest in this project!
 
 
 
